@@ -1,0 +1,19 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: portfolio_builder
+  # host: localhost
+  pool: 5
+  port: 5432
+  username: postgres
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: portfolio_builder
+  # host: localhost
+  pool: 5
+  port: 5432
+  username: postgres
+  password:
