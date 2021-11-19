@@ -1,4 +1,4 @@
-# README
+# Portfolio Builder
 
 Backend for portfolio builder app
 
